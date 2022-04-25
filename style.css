@@ -20,3 +20,31 @@
     border-style: solid;
     margin: 50px 40px 30px;
 }
+
+#a1{
+border-style: solid;
+}
+#s2{
+   border-style: dotted; 
+}
+#d3{
+    border-style:dashed;
+}
+#f4{
+    border-style:double;
+}
+#g5{
+    border-style:groove;
+}
+#h6{
+    border-style:inset;
+}
+#j7{
+    border-style:outset;
+}
+#k8{
+    border-style:ridge;
+}
+#l9{
+    border-style: solid dotted none dotted;
+}
