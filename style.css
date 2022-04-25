@@ -22,18 +22,23 @@
 }
 
 #a1{
+    border-color:transparent;
 border-style: solid;
 }
 #s2{
+    border-color:aqua;
    border-style: dotted; 
 }
 #d3{
+    border-color:#cacd58;
     border-style:dashed;
 }
 #f4{
+    border-color:initial;
     border-style:double;
 }
 #g5{
+    border-color:inherit;
     border-style:groove;
 }
 #h6{
@@ -47,4 +52,5 @@ border-style: solid;
 }
 #l9{
     border-style: solid dotted none dotted;
+    border-color: blue red yellow brown;
 }
