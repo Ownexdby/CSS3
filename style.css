@@ -7,3 +7,16 @@
     padding-top: 50px;
     margin-top: 50px;
 }
+
+.three{
+    border-style: solid;
+    border-color: blueviolet;
+    background-color:blueviolet;
+    margin: 30px;
+}
+.for{
+    border-color: blue ;
+    background-color:blue;
+    border-style: solid;
+    margin: 50px 40px 30px;
+}
