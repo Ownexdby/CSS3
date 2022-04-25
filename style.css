@@ -23,19 +23,24 @@
 
 #a1{
     border-color:transparent;
-border-style: solid;
+    border-style: solid;
+    border-width:20px;
 }
 #s2{
     border-color:aqua;
    border-style: dotted; 
+   border-width:20px;
 }
 #d3{
     border-color:#cacd58;
     border-style:dashed;
+    border-width:10px;
 }
 #f4{
     border-color:initial;
     border-style:double;
+    border-width:15px;
+    
 }
 #g5{
     border-color:inherit;
@@ -51,6 +56,10 @@ border-style: solid;
     border-style:ridge;
 }
 #l9{
+    border-top-width:5px;
+     border-right-width:7px;
+      border-bottom-width:4px;
+       border-left-width: 2px;
     border-style: solid dotted none dotted;
     border-color: blue red yellow brown;
 }
